@@ -2,11 +2,13 @@
   "name": "yang-dev",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yangencarnaco.github.io/portfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    "publicar": "npm "
   },
   "dependencies": {
     "next": "12.2.5",
