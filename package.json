@@ -11,10 +11,23 @@
   "dependencies": {
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.5"
+  },
+  "resolutions": {
+    "tslib": "1.14.1",
+    "debug": "2.6.9",
+    "doctrine": "2.1.0",
+    "eslint-visitor-keys": "2.1.0",
+    "glob-parent": "5.1.2",
+    "ms": "2.0.0",
+    "glob": "7.1.7",
+    "semver": "7.3.7",
+    "resolve": "2.0.0-next.4"
   }
 }
